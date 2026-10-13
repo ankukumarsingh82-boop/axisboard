@@ -4,7 +4,7 @@
 
 A simple multi-track project dashboard: pick a problem track, log build milestones, attach a live demo URL, and export a one-page submission brief (Markdown).
 
-**Demo:** https://ankukumarsingh82-boop.github.io/axisboard/
+**Demo:** http://edvera.me/axisboard/
 
 ![screenshot](docs/screenshot.png)
 
